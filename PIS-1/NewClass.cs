@@ -7,5 +7,7 @@ namespace PIS_1
 {
     class NewClass
     {
+        
+        void druga funkcija();
     }
 }
